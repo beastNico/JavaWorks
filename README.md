@@ -1,6 +1,6 @@
-## Some basic Java Programmes
+## Some basic Java Programs
 
-I have just thought that these programmes may be shared
+I have just thought that these programs may be shared
 
 ## Folder Structure
 
